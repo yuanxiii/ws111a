@@ -1,4 +1,4 @@
-# 本程式參考自https://www.youtube.com/watch?v=JDn6OAMnJwQ
+# 本程式參考自https://www.youtube.com/watch?v=JDn6OAMnJwQ並加以理解修改
 config.php是與資料庫有關的設定檔  
 index.php的程式碼中包含了SESSION的確認、登入的表單  
 register.html包含了簡單的檢核機制、註冊的表單  
